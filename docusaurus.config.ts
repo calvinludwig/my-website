@@ -7,7 +7,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 const config: Config = {
   title: "Calvin Ludwig",
   tagline: "Software Engineer",
-  favicon: "img/favicon.ico",
+  favicon: "https://github.com/calvinludwig.png",
 
   // Set the production url of your site here
   url: "https://calvinludwig.netlify.app",
